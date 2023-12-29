@@ -1,4 +1,4 @@
-基于Retinex的低曝光多细节的图像增强
+Detail Enhancement through Laplacian Pyramid and U-net for Image Processing
 # Code
 ## Requirements
 - python3.7
