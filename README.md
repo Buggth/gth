@@ -9,6 +9,6 @@ Detail Enhancement through Laplacian Pyramid and U-net for Image Processing
 - 将测试图片放入data文件夹中
 - Run"test.py"
 ## contrast
-[数据集](./数据库.jpg)
+[数据集](数据集.jpg)
 
-[细节对比](./细节对比2.jpg)
+[细节对比](细节对比2.jpg)
