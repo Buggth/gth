@@ -9,7 +9,7 @@ Detail Enhancement through Laplacian Pyramid and U-net for Image Processing
 - 将测试图片放入data文件夹中
 - Run"test.py"
 ## contrast
-[数据集.pdf](https://github.com/Buggth/gth/files/15425635/default.pdf)
+[数据集](/数据集1.pdf)
 
 
 [数据集2.pdf](https://github.com/Buggth/gth/files/15425641/2.pdf)
